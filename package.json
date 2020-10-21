@@ -1,0 +1,19 @@
+{
+  "name": "theta-epsilon",
+  "version": "0.0.0",
+  "description": "Theta Tools: Epsilon Set is a set of CSS based components, based on HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theta-tools/Epsilon-Set.git"
+  },
+  "author": "Theta Tools",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theta-tools/Epsilon-Set/issues"
+  },
+  "homepage": "https://github.com/theta-tools/Epsilon-Set#readme"
+}
