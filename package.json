@@ -1,5 +1,5 @@
 {
-    "name": "theta-epsilon",
+    "name": "@thetatools/epsilon-set",
     "version": "1.0.0",
     "description": "Theta Tools: Epsilon Set is a set of CSS based components, based on HTML",
     "main": "index.js",
