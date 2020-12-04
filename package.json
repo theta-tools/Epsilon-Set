@@ -6,6 +6,7 @@
     "scripts": {
         "test": "test"
     },
+    
     "repository": {
         "type": "git",
         "url": "git+https://github.com/theta-tools/Epsilon-Set.git"
@@ -19,6 +20,7 @@
     "dependencies": {
         "clean-css-cli": "^4.3.0"
     },
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" },
     "files": [
         "theta-epsilon.css"
     ]
